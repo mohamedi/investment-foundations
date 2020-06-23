@@ -4,7 +4,7 @@
 ## Knowledge:
 
 * https://www.cfainstitute.org/en/programs/investment-foundations
-* https://www.khanacademy.org/economics-finance-domain/core-finance
+* https://www.khanacademy.org/economics-finance-domain
 * https://www.kaplangenesis.com/images/brochure/elp-resource/pre-class-video-list-level-1-cfa.pdf
 
 ## Notes:
