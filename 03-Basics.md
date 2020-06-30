@@ -1,6 +1,7 @@
-## Notion of scarcity
+## Scarcity
 
-* Economics is by and large study of scarce resources and how well we allocate them. Scarce resource: fish eggs vs Free resources: Air(o2) in our planet
+* Economics is by and large study of scarce resources and how well we allocate them. Scarce resource: fish eggs vs Free resources: Air(o2) in our planet. Money on the contrast is
+NOT a scarce resource
 
 ## Four factors of production
 
