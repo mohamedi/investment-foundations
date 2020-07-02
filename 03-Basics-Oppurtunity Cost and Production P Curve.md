@@ -1,5 +1,5 @@
 ## Production Possibilty curve
 
 * The PPC curve model explains the trade-off and how optimal we can spend our resources inorder to be benefitted. Example is trade-off between catching rabbits and berries.
-* Moving to bigger classroom could be trade-off of some. The curve example is:https://i.imgur.com/2QnyqHQ.png
+* Moving to bigger classroom could be trade-off of some. The curve example is:![Imgur Image](https://i.imgur.com/2QnyqHQ.png) 
 
