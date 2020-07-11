@@ -24,3 +24,12 @@
 * The trade makes sense if the slope is different and it addds value or beneficial.
 
 ![Imgae](https://i.imgur.com/dLBbpH3.png)
+
+## Specialization:
+
+* In order for Canadians to benefit from trade with Mexico, they must be able to **import** avocados at a lower opportunity cost than it would cost them to grow domestically. Likewise, Mexico must get maple syrup more cheaply (in terms of avocados given up) than it could have produced it for domestically. The terms of trade refer to the trading price agreed upon by two agents, which when beneficial, will allow both countries to enjoy gains from trade.
+* **Pulling off**: M.Pabrai such way India is poor for stupid reasons, export for Sugar industry in UP and the regulations made it hard to specialize. Again , POSCO example they try to tap 
+the useless iron ore from India due to its stupidity lost it specilization and poor
+* Suadi specilized in petroluem and rich and US rich in soy bean production and staying rich
+* **Pulling off** : C.Munger for induvidual specialization is always best than "Jack of all" 
+
