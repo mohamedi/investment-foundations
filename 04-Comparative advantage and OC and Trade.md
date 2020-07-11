@@ -17,3 +17,10 @@
 
 * starting from how much a worker can produce and move on further
 ![image](https://i.imgur.com/qI3tzui.png)
+
+## When there is no trade
+
+* At the end the OC is nothing but the slope of any two goods and services that company A and B could produce 
+* The trade makes sense if the slope is different and it addds value or beneficial.
+
+![Imgae](https://i.imgur.com/dLBbpH3.png)
