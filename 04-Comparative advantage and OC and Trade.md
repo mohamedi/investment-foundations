@@ -3,7 +3,7 @@
 * Even though a country A or B can definetly have the absolute advantage but with comparative advantage they can still benefit 
 * Example:
   * Lets say two country has the PPC is bow shaped and first take the *max of the curve* i.e what it can produce
-  * Plot the table between max and min
+  * Plot the table between max for A and B
   * Now find the Oppurtunity cost for the goods -> in terms of the marginal costs
   * Now, given the OC and PPC *trade* and find the best optimal PPC shift
 * Eg. in the diagram
