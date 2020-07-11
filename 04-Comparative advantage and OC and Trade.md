@@ -1,5 +1,8 @@
 
-* The coparative adbanatage makes to push the PPC from the classical bow shaped and it increses the productivity
+## From output based:
+
+
+* The coparative advanatage makes to push the PPC from the classical bow shaped and it increses the productivity
 * Even though a country A or B can definetly have the absolute advantage but with comparative advantage they can still benefit 
 * Example:
   * Lets say two country has the PPC is bow shaped and first take the *max of the curve* i.e what it can produce
@@ -9,3 +12,8 @@
 * Eg. in the diagram
 ![image](https://i.imgur.com/sCa7SvU.png)
 * 
+
+## From Input advantage:
+
+* starting from how much a worker can produce and move on further
+![image](https://i.imgur.com/qI3tzui.png)
