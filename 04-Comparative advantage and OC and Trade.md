@@ -33,3 +33,6 @@ the useless iron ore from India due to its stupidity lost it specilization and p
 * Suadi specilized in petroluem and rich and US rich in soy bean production and staying rich
 * **Pulling off** : C.Munger for induvidual specialization is always best than "Jack of all" 
 
+## Practise:
+* **ONE CANNNOT HAVE COMP: ADVANATGE ON BOTH GOODS** so then neither is comprable
+![image](https://i.imgur.com/1BFWCeg.png)
