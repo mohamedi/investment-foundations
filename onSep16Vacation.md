@@ -9,3 +9,7 @@
 * f~~it the sun screen~~
 * book for Hakim
 * ~~augen termin~~
+
+* Complete IB https://ndcdyn.interactivebrokers.com/Universal/servlet/service.ClassicAmLandingServlet
+* Finsish part 1 of TMV
+* Call bank Ing and confirm
