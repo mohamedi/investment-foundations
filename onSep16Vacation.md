@@ -19,3 +19,4 @@
 - Skyline night tour
 - **Spend time alone and think about few important thing on Birthday! Happy 32!** Write interests and dislike, likes, honesty, integrity and intelligence
 -  Preconditin: Take Naval, Graham, Buffet, Mohinish, check bookmarks tweets, BTM RT
+- Digital detox
