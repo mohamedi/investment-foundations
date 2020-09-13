@@ -13,3 +13,9 @@
 * Complete IB https://ndcdyn.interactivebrokers.com/Universal/servlet/service.ClassicAmLandingServlet
 * Finsish part 1 of TMV
 * Call bank Ing and confirm
+
+- Helath and mind: Youga and Excercise
+- Roshan & me pschcology doctor
+- Skyline night tour
+- Spend time alone and think about few important thing on Birthday! Happy 32!
+- 
