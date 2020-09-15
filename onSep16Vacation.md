@@ -12,3 +12,7 @@
 -  Preconditin: Take Naval, Graham, Buffet, Mohinish, check bookmarks tweets, BTM RT
 - Digital detox, sports bridge and where you rent your TIME- THINK
 - Your special knowledge- Cloud(scale), coding(any enterprise platform) -No domain know-how and no deep experience on either of aformetioned items.
+- Think When I talk about specific knowledge, I mean figure out what you were doing as a kid or teenager almost effortlessly-- Write points about it
+- Take print out on first pages on naval
+
+
