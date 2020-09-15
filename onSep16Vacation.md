@@ -1,21 +1,12 @@
 # Started Reading TNV 
-* 	~~FInish mind for number~~
-* Khan PF and others
-* ~~car call for paint - AUg 20 Termin~~
-* ~~Finish the docu on Zuschlag~~
-* ~~Mail the extension for VISA or passport~~
-* ~~samsung phone~~
-* ~~keller~~
-* f~~it the sun screen~~
-* book for Hakim
-* ~~augen termin~~
 
+* Khan PF and others
 * Complete IB https://ndcdyn.interactivebrokers.com/Universal/servlet/service.ClassicAmLandingServlet
 * Finsish part 1 of TMV
-* Call bank Ing and confirm
+* Call bank Ing and confirm ~maybe
 
 - Helath and mind: Youga and Excercise
-- Roshan & me pschcology doctor
+- Roshan & me pschcology doctor - Write up your problems https://www.praxis-ffm.de/betriebliche-sozialberatung/
 - Skyline night tour
 - **Spend time alone and think about few important thing on Birthday! Happy 32!** Write interests and dislike, likes, honesty, integrity and intelligence
 -  Preconditin: Take Naval, Graham, Buffet, Mohinish, check bookmarks tweets, BTM RT
