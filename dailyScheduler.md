@@ -15,5 +15,5 @@
 
 | Date/Day  |  Subject | Hour  |  Comments |   |
 |---    |---|---|---|---      |
-|   05.09/Monday    |  * Analyzed Seritage and business(2 hr)  <br> * holt Review(1 hr)  |   |   |   |
-|  06.10/Sunday     |  * Read perpetuity and annuity <br> * Chapter Aesop investing primer  |   |   |   |
+|   05.10/Monday    |  * Analyzed Seritage and business(2 hr)  <br> * holt Review(1 hr)  |   |   |   |
+|  06.10/Tuesday     |  * Read perpetuity and annuity <br> * Chapter Aesop investing primer  |   |   |   |
