@@ -18,3 +18,4 @@
 # Mentors
 
 * transcribing all M. Pabrai speeches and making it into searchable 
+https://gist.github.com/dannguyen/9b8c51f5bb853209f19f1a0f18f0f74c#transcription-results
