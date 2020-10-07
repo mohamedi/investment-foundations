@@ -15,3 +15,6 @@
 * pulling 10-k and fin reports using ML and filling numbers
 
 
+# Mentors
+
+* transcribing all M. Pabrai speeches and making it into searchable 
