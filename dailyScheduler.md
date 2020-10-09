@@ -17,3 +17,5 @@
 |---    |---|---|---|---      |
 |   05.10/Monday    |  * Analyzed Seritage and business(2 hr)  <br> * holt Review(1 hr)  |   |   |   |
 |  06.10/Tuesday     |  * Read perpetuity and annuity <br> * Chapter Aesop investing primer  |   |   |   |
+|   07.10/Wed    |  * thought on side project * more APR and annuity * Internet stocks at 2000, stock bubble and how it will impact |   |   |   |
+|  08.10/Thu     |  * Honesty - bad billionaries   |   |   |   |
