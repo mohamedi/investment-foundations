@@ -19,3 +19,18 @@
 |  06.10/Tuesday     |  * Read perpetuity and annuity <br> * Chapter Aesop investing primer  |   |   |   |
 |   07.10/Wed    |  * thought on side project * more APR and annuity * Internet stocks at 2000, stock bubble and how it will impact |   |   |   |
 |  08.10/Thu     |  * Honesty - bad billionaries   |   |   |   |
+
+# CW 42
+
+* No progress and no time- Hakim got sick and quarreling in betweeen 
+* Focused only on the office work cloud cost usage figuring and cost allocation
+
+# CW 42
+
+
+| Date/Day  |  Subject | Hour  |  Comments |   |
+|---    |---|---|---|---      |
+|   19.10/Monday    |  *   |   |   |   |
+|  20.10/Tuesday     |  *  |   |   |   |
+|  21.10/Wed    |  *  |   |   |   |
+|  22.10/Thu     |  *    |   |   |   |
